@@ -1,0 +1,162 @@
+[
+  {
+    "nombre": "Parque La Carolina",
+    "categoria": "GRATIS",
+    "lat": -0.1823,
+    "lng": -78.4845,
+    "sticker": "🌳",
+    "info": "Áreas verdes amplias, pistas de atletismo, ciclovías, laguna con botes y áreas de deportes urbanos."
+  },
+  {
+    "nombre": "Parque Metropolitano Guangüiltagua",
+    "categoria": "GRATIS",
+    "lat": -0.1706,
+    "lng": -78.4646,
+    "sticker": "🌲",
+    "info": "Enorme bosque urbano de eucaliptos con miradores al valle de Cumbayá, senderos y zonas de picnic."
+  },
+  {
+    "nombre": "Centro de Arte Contemporáneo (CAC)",
+    "categoria": "GRATIS",
+    "lat": -0.2141,
+    "lng": -78.5063,
+    "sticker": "🎨",
+    "info": "Ubicado en el antiguo Hospital Militar. Ofrece exposiciones de arte contemporáneo y eventos culturales."
+  },
+  {
+    "nombre": "Parque Itchimbía",
+    "categoria": "GRATIS",
+    "lat": -0.2185,
+    "lng": -78.5002,
+    "sticker": "🏰",
+    "info": "Alberga el Palacio de Cristal y ofrece una vista panorámica de 360 grados de todo Quito."
+  },
+  {
+    "nombre": "Plaza Grande",
+    "categoria": "GRATIS",
+    "lat": -0.2201,
+    "lng": -78.5122,
+    "sticker": "🏛️",
+    "info": "Corazón histórico de Quito. Rodeado por el Palacio de Carondelet, la Catedral y la Alcaldía."
+  },
+  {
+    "nombre": "Palacio de Carondelet",
+    "categoria": "GRATIS",
+    "lat": -0.2198,
+    "lng": -78.5127,
+    "sticker": "👑",
+    "info": "Sede de Gobierno. Ofrece recorridos guiados gratuitos por sus salones protocolarios con reserva o cédula."
+  },
+  {
+    "nombre": "Calle de la Ronda",
+    "categoria": "GRATIS",
+    "lat": -0.2248,
+    "lng": -78.5139,
+    "sticker": "🏮",
+    "info": "Tradicional calle colonial emblemática por sus talleres artesanales, balcones floridos y ambiente bohemio."
+  },
+  {
+    "nombre": "Parque El Ejido",
+    "categoria": "GRATIS",
+    "lat": -0.2105,
+    "lng": -78.4988,
+    "sticker": "🖼️",
+    "info": "Límite entre el Quito moderno y colonial. Galería de arte al aire libre de pintores locales los fines de semana."
+  },
+  {
+    "nombre": "Parque Bicentenario",
+    "categoria": "GRATIS",
+    "lat": -0.1368,
+    "lng": -78.4878,
+    "sticker": "✈️",
+    "info": "Ubicado en las pistas del antiguo aeropuerto. Extensas zonas para correr, patinar y volar cometas."
+  },
+  {
+    "nombre": "Mirador de Guápulo",
+    "categoria": "GRATIS",
+    "lat": -0.2039,
+    "lng": -78.4789,
+    "sticker": "🌅",
+    "info": "Punto elevado privilegiado con vistas espectaculares hacia el Santuario de Guápulo y los valles."
+  },
+  {
+    "nombre": "Basílica del Voto Nacional",
+    "categoria": "HASTA $5 USD",
+    "lat": -0.2147,
+    "lng": -78.5073,
+    "sticker": "⛪",
+    "info": "Templo neogótico representativo. Subir a sus torres y miradores cuesta entre $2 y $4 USD."
+  },
+  {
+    "nombre": "Jardín Botánico de Quito",
+    "categoria": "HASTA $5 USD",
+    "lat": -0.1842,
+    "lng": -78.4851,
+    "sticker": "🌺",
+    "info": "Ubicado en La Carolina. Invernaderos de orquídeas y recreaciones de ecosistemas ($5 general / $2.50 estudiantes)."
+  },
+  {
+    "nombre": "Yaku Parque Museo del Agua",
+    "categoria": "HASTA $5 USD",
+    "lat": -0.2222,
+    "lng": -78.5186,
+    "sticker": "💧",
+    "info": "Museo interactivo de ciencia y agua ubicado en las laderas del Pichincha. Entrada aprox. $4 USD."
+  },
+  {
+    "nombre": "Museo de la Ciudad",
+    "categoria": "HASTA $5 USD",
+    "lat": -0.2241,
+    "lng": -78.5147,
+    "sticker": "📜",
+    "info": "Antiguo Hospital San Juan de Dios. Muestra la historia cotidiana de Quito. Entrada $4 USD ($2 estudiantes)."
+  },
+  {
+    "nombre": "Museo del Carmen Alto",
+    "categoria": "HASTA $5 USD",
+    "lat": -0.2244,
+    "lng": -78.5140,
+    "sticker": "🔔",
+    "info": "Antiguo convento de clausura con importante colección de arte sacro colonial. Entrada aprox. $4 USD."
+  },
+  {
+    "nombre": "Museo Alberto Mena Caamaño",
+    "categoria": "HASTA $5 USD",
+    "lat": -0.2207,
+    "lng": -78.5130,
+    "sticker": "🗿",
+    "info": "Conocido como el Museo de Cera. Exhibe la escena de los patriotas del 2 de agosto de 1810. Entrada $1.50 a $2 USD."
+  },
+  {
+    "nombre": "Museo Camilo Egas",
+    "categoria": "HASTA $5 USD",
+    "lat": -0.2178,
+    "lng": -78.5098,
+    "sticker": "🎨",
+    "info": "Casona colonial con las obras indigenistas y modernas del maestro Camilo Egas. Entrada entre $1 y $2 USD."
+  },
+  {
+    "nombre": "Mindalae Museo Etnográfico",
+    "categoria": "HASTA $5 USD",
+    "lat": -0.2023,
+    "lng": -78.4908,
+    "sticker": "🏺",
+    "info": "Ubicado en La Mariscal. Exhibición de artesanía, cosmovisión y técnicas textiles del Ecuador. Entrada $3-$5 USD."
+  },
+  {
+    "nombre": "Museo de Arte Colonial",
+    "categoria": "HASTA $5 USD",
+    "lat": -0.2188,
+    "lng": -78.5108,
+    "sticker": "🖼️",
+    "info": "Casona colonial con pinturas y esculturas de la célebre Escuela Quiteña. Entrada aprox. $1 a $2 USD."
+  },
+  {
+    "nombre": "Convento y Museo de San Francisco",
+    "categoria": "HASTA $5 USD",
+    "lat": -0.2212,
+    "lng": -78.5153,
+    "sticker": "⛪",
+    "info": "Museo Fray Pedro Godez dentro del complejo franciscano y acceso a las torres/cervecería. Entrada $2 a $4 USD."
+  }
+]
